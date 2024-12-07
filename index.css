@@ -1155,8 +1155,9 @@ body
     }
     .about-text.btn-box{
         margin-top: 20px;
-        margin-left: 80px;
+        margin-left: 75px;
         gap: 10px;
+        width: 100%;
     }
 }
 
@@ -1173,10 +1174,12 @@ body
     }
     .about-text p {
         margin-left: 80px;
+        width: 100%;
     }
     .about-text .btn-box{
         margin-top: 15px;
-        margin-left: 70px;
+        margin-left: 60px;
         gap: 5px;
+        width: 100%;
     }
 }
