@@ -1151,9 +1151,6 @@ body
         gap: 10px;
         width: 100%;
     }
-        .btn-box:hover {
-          box-shadow: 0 0 5px rgba(0, 255, 255, 0.3);
-        }
 }
 
 /* For very small screens (under 320px) */
@@ -1171,8 +1168,4 @@ body
         width: 100%;
      
     }
-        .btn-box:hover {
-          box-shadow: 0 0 3px rgba(0, 255, 255, 0.2);
-        }
-      
 }
