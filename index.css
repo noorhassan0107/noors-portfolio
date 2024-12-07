@@ -1153,9 +1153,9 @@ body
         padding: 5px;
         font-size: 14px;
     }
-    .about-text h2 span {
-        gap: 15px;
-    }
+        .btn-box:hover {
+          box-shadow: 0 0 5px rgba(0, 255, 255, 0.3);
+        }
 }
 
 /* For very small screens (under 320px) */
@@ -1175,7 +1175,8 @@ body
         font-size: 12px;
      
     }
-    .about-text h2 span {
-        gap: 9px;
-    }
+        .btn-box:hover {
+          box-shadow: 0 0 3px rgba(0, 255, 255, 0.2);
+        }
+      
 }
