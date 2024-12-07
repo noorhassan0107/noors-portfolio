@@ -1142,7 +1142,6 @@ body
 @media (max-width: 480px) {
     .about-text {
         display: flex;
-        flex-direction: column;
         align-items: center;
         text-align: center; /* Center the text within the div */
     }
@@ -1153,6 +1152,9 @@ body
         width: 100%;
         padding: 5px;
         font-size: 14px;
+    }
+    .about-text h2 span {
+        gap: 15px;
     }
 }
 
@@ -1172,5 +1174,8 @@ body
         padding: 10px;
         font-size: 12px;
      
+    }
+    .about-text h2 span {
+        gap: 9px;
     }
 }
